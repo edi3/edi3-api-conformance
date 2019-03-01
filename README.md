@@ -1,10 +1,10 @@
 # edi3 API Conformance Specification
 
- * [Version 1.0](/docs/1.0/index.md)
+ * [Working Draft](/docs/index.md)
  
-Specification: [API Conformance 1.0](http://edi3.org/specs/edi3-api-conformance/1.0/)
+Specifications: [API Conformance Working Draft](http://edi3.org/specs/edi3-api-conformance/master/)
 
-Community discussion/support: [edi3.org](http://edi3.org)
+Community discussion/support: [edi3.org](http://edi3.org/)
 
 Open source reference implementation: 
 
